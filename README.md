@@ -21,7 +21,7 @@ The purpose of our analysis is to see temperature statistics for June and Decemb
 ![december_temp](https://user-images.githubusercontent.com/89143725/139520603-db9e6b56-6c60-4ed9-b128-122502dc0212.png)
 
 
- --Standard deviation is 3.25 in June and 3.75 -- making a .5 difference in the two different seasons
+ -- Standard deviation is 3.25 in June and 3.75 -- making a .5 difference in the two different seasons
 
 These two tables tell us about the differing weather patterns for the two monthly periods. Some takeaways:
 1) Average temperature between June and December is 75 and 71 degrees respectively, show a moderate temperature and very little fluctuation between the two periods from an average standpoint.
