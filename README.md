@@ -7,11 +7,12 @@ The purpose of our analysis is to see temperature statistics for June and Decemb
 
 # Results
 June Temperatures
-<june.png>
+![june_temp](https://user-images.githubusercontent.com/89143725/139520596-9b90ddcb-141e-4f41-a24a-f4bcd3c26344.png)
+
 
  
  December Temperatures
- <December.png">
+![december_temp](https://user-images.githubusercontent.com/89143725/139520603-db9e6b56-6c60-4ed9-b128-122502dc0212.png)
 
 
  -- Top note : Standard deviation is 3.25 in June and 3.75 -- making a .5 difference in the two different seasons
