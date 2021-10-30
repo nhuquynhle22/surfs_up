@@ -6,7 +6,7 @@ The purpose of our analysis is to see temperature statistics for June and Decemb
 
 
 # Results
-##June Temperatures
+## June Temperatures
 
 
 
@@ -14,7 +14,7 @@ The purpose of our analysis is to see temperature statistics for June and Decemb
 
 
  
- ##December Temperatures
+ ## December Temperatures
  
  
  
