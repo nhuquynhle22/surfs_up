@@ -21,12 +21,10 @@ The purpose of our analysis is to see temperature statistics for June and Decemb
 ![december_temp](https://user-images.githubusercontent.com/89143725/139520603-db9e6b56-6c60-4ed9-b128-122502dc0212.png)
 
 
- -- Standard deviation is 3.25 in June and 3.75 -- making a .5 difference in the two different seasons
-
 These two tables tell us about the differing weather patterns for the two monthly periods. Some takeaways:
 1) Average temperature between June and December is 75 and 71 degrees respectively, show a moderate temperature and very little fluctuation between the two periods from an average standpoint.
 2) the maximum temperatures of 85 (June) and 83 (December) are also remarkable similar.
-3) the minimum temperature of 56 (December) and 64 (June) show the greatest variance, and reflects a much lower temperature level in December that may not be conducive to ice cream or surfing. However, with standard deviations of 3.25 (June) and 3.74 (December) we would expect a little more variation in the december numbers.
+3) the minimum temperature of 56 (December) and 64 (June) show the greatest variance, and reflects a much lower temperature level in December that may not be conducive to ice cream or surfing. However, with standard deviations of 3.25 (June) and 3.74 (December) we would expect a little more variation in the december numbers. The only difference is  .5 in the two different seasons. 
 
 # Summary 
 
